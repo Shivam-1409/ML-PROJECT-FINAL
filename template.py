@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-project_name = 'ML-Project'
+project_name = 'ML_project'
 
 LIST_OF_FILES_TO_CREATE = [ 
     f"src/{project_name}/__init__.py",
